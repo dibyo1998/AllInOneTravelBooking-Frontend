@@ -6,11 +6,8 @@ All-in-one Travel Booking App According to a report published by US Travel Assoc
 # Frontend
 - HTML
 - CSS
-- Frontend
 - JS
 - Angular
-- Bootstrap
-- WireFrame
 # Backend
 - Java
 - JDBC
